@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @miinus-vee
+- 👋 Hi, I’m Manasvi Das
 - 👀 I’m interested in Web-Dev and AI-ML
 - 🌱 I’m currently learning Game dev
 - 💞️ I’m looking to collaborate on Web dev related projects
