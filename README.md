@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m Manasvi.
 - 👀 I’m interested in Web-Dev and AI-ML
-- 🌱 I’m currently learning Game dev
 - 💞️ I’m looking to collaborate on Web dev related projects
 <!-- - 📫 How to reach me: https://www.linkedin.com/in/manasvidas/ --->
 
